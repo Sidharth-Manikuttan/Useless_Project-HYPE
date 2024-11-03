@@ -70,7 +70,7 @@ For Software:
 
 ![Gmail](https://github.com/user-attachments/assets/149e0253-cb35-47a5-b678-d1ea598f6931)
 
-*Gmail Message*
+*Gmail Message - sent by the system*
 
 # Diagram
 ![image](https://github.com/user-attachments/assets/7fb70cf9-78c0-4a4d-a8f4-23a1d2d95799)
