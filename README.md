@@ -7,8 +7,8 @@
 ### Team Name: SingleThreaded
 
 
-### Team Members
-- Team Lead: Sidharth Manikuttan
+### Team Member
+ Sidharth Manikuttan
 
 ### Project Description
 The "Hyper Yielding Positivity Engine (HYPE)" is a face recognition-based HYPE machine that identifies a person, displays exaggerated or humorous "credentials," plays a preset motivational audio message, and sends a super-charged, uplifting email to their inbox. It's designed to boost morale with a fun, over-the-top twist!
