@@ -72,22 +72,15 @@ For Software:
 
 *Gmail Message*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+# Diagram
+![image](https://github.com/user-attachments/assets/7fb70cf9-78c0-4a4d-a8f4-23a1d2d95799)
+
+*workflow of the three python files*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
