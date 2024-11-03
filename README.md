@@ -22,20 +22,32 @@ Introducing the "HYPE" – a groundbreaking, utterly unnecessary solution to the
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used : Python
+- Frameworks used : Firebase Realtime Database (for data storage and retrieval)
+- Libraries used : OpenCV (cv2) for video capture and image processing,
+Face Recognition for facial detection and recognition (Anaconda),
+NumPy for numerical operations,
+CVZone for additional OpenCV utilities,
+Pyttsx3 for text-to-speech functionality,
+Smtplib for sending emails,
+Email.mime for constructing email messages,
+Pickle for serialization of encoded face data
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Tools used : Visual Studio Code for coding and debugging,
+Firebase Console for database management,
+A webcam for capturing video input
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+-git clone <repository-url>
+-cd <repository-directory>
+-Create a new Anaconda environment (optional but recommended)
+-conda install -c conda-forge opencv (If using Anaconda)/ pip install opencv-python
+-conda install -c conda-forge face_recognition/ pip install face_recognition
+-pip install numpy
+-pip install pyttsx3
+-pip install firebase-admin
 
 # Run
 [commands]
