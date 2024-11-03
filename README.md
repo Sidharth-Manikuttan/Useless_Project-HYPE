@@ -75,7 +75,7 @@ For Software:
 # Diagram
 ![image](https://github.com/user-attachments/assets/7fb70cf9-78c0-4a4d-a8f4-23a1d2d95799)
 
-*workflow of the three python files*
+*Workflow of the three python files*
 
 ### Project Demo
 # Video
