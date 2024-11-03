@@ -32,7 +32,6 @@ Pyttsx3 for text-to-speech functionality,
 Smtplib for sending emails,
 Email.mime for constructing email messages,
 Pickle for serialization of encoded face data
-
 - Tools used : Visual Studio Code for coding and debugging,
 Firebase Console for database management,
 A webcam for capturing video input
@@ -40,27 +39,34 @@ A webcam for capturing video input
 ### Implementation
 For Software:
 # Installation
--git clone <repository-url>
--cd <repository-directory>
--Create a new Anaconda environment (optional but recommended)
--conda install -c conda-forge opencv (If using Anaconda)/ pip install opencv-python
--conda install -c conda-forge face_recognition/ pip install face_recognition
--pip install numpy
--pip install pyttsx3
--pip install firebase-admin
+- git clone [<repository-url>](https://github.com/Sidharth-Manikuttan/Useless_Project-HYPE.git)
+- Create a new Anaconda environment (optional but recommended)
+- conda install -c conda-forge opencv (If using Anaconda)/ pip install opencv-python
+- conda install -c conda-forge face_recognition/ pip install face_recognition
+- pip install numpy
+- pip install pyttsx3
+- pip install firebase-admin
 
 # Run
-[commands]
+- python <AddDataToDatabase.py> (Add new data to the database)
+- python <EncodeGenerator.py> (Encode the images to be recognized)
+- python <main.py>
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots
+![Loading](https://github.com/user-attachments/assets/a9b6780c-8335-41e5-a773-fd158e89ac38)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+*Loading Screen UI*
+
+![Face Recognition](https://github.com/user-attachments/assets/57b776bd-96f5-4f61-85bd-65837ad97e59)
+
+*Facial Recognition and greating*
+
+![Database](https://github.com/user-attachments/assets/1193b6ae-1639-4370-b407-149cec9c59ce)
+
+*Realtime Database - Firebase*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
@@ -68,25 +74,6 @@ For Software:
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
