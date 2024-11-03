@@ -1,23 +1,23 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# HYPE 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: SingleThreaded
 
 
 ### Team Members
-- Team Lead: - Sidharth Manikuttan
+- Team Lead: Sidharth Manikuttan
 
 ### Project Description
-[2-3 lines about what your project does]
+The "Hyper Yielding Positivity Engine (HYPE)" is a face recognition-based HYPE machine that identifies a person, displays exaggerated or humorous "credentials," plays a preset motivational audio message, and sends a super-charged, uplifting email to their inbox. It's designed to boost morale with a fun, over-the-top twist!
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+In a world overflowing with mediocrity, individuals suffer from a crippling lack of motivation and recognition, leading to an epidemic of uninspired vibes and bland encouragement. People are frequently bombarded with mundane affirmations that fail to ignite their passion or creativity. This alarming trend results in a widespread deficit of excitement and joy, leaving everyone trapped in a monotonous loop of underachievement. Our society is in desperate need of a jolt of enthusiasm to break the cycle and bring back the thrill of over-the-top RECOGNITION and motivation that everyone truly deserves!
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Introducing the "HYPE" – a groundbreaking, utterly unnecessary solution to the non-existent problem of lackluster motivation! Our system harnesses the power of face recognition technology to identify individuals and then celebrates their presence with a flurry of absurdly exaggerated accolades and amusing credentials. As if that weren’t enough, it delivers a rousing audio announcement that turns every entrance into an award ceremony, complete with motivational speeches fit for that person. To top it all off, it sends out a preset outrageously enthusiastic email that celebrates your uniqueness and prowess, whether you're a master chef, an aspiring Engineer, or just someone who successfully made it out of bed that day. The HYPE is here to save the day – or at least provide a good chuckle!
 
 ## Technical Details
 ### Technologies/Components Used
