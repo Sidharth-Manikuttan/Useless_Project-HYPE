@@ -60,7 +60,7 @@ For Software:
 
 *Loading Screen UI*
 
-![Face Recognition](https://github.com/user-attachments/assets/57b776bd-96f5-4f61-85bd-65837ad97e59)
+![Face Recognition](https://github.com/user-attachments/assets/b7e3eb8c-1e85-4db6-9193-04e4eb37256c)
 
 *Facial Recognition and greating*
 
@@ -68,8 +68,9 @@ For Software:
 
 *Realtime Database - Firebase*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Gmail](https://github.com/user-attachments/assets/149e0253-cb35-47a5-b678-d1ea598f6931)
+
+*Gmail Message*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
