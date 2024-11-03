@@ -79,9 +79,9 @@ For Software:
 
 ### Project Demo
 # Video
-[[Add your demo video link here]](https://drive.google.com/drive/folders/1MKeHJKEFIY2IeDio4QJur2YMCe6x7OdP?usp=sharing)
+[[Vedio Drive Link]](https://drive.google.com/drive/folders/1MKeHJKEFIY2IeDio4QJur2YMCe6x7OdP?usp=sharing)
 
-*Drive link : Vedio showing the system recognizing a person and greating him (audio)*
+* Vedio showing the system recognizing a person and greating him (audio)*
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
