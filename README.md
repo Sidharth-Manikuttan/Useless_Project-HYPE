@@ -2,7 +2,7 @@
 
 # HYPE 🎯
 
-[[Vedio Drive Link]](https://drive.google.com/drive/folders/1MKeHJKEFIY2IeDio4QJur2YMCe6x7OdP?usp=sharing)
+[[Demo Vedio Drive Link]](https://drive.google.com/drive/folders/1MKeHJKEFIY2IeDio4QJur2YMCe6x7OdP?usp=sharing)
 
 ## Basic Details
 ### Team Name: SingleThreaded
