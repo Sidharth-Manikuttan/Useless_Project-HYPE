@@ -2,7 +2,7 @@
 
 # HYPE 🎯
 
-[Demo Vedio Drive Link](https://drive.google.com/drive/folders/1MKeHJKEFIY2IeDio4QJur2YMCe6x7OdP?usp=sharing)
+[Demo Video Drive Link](https://drive.google.com/drive/folders/1MKeHJKEFIY2IeDio4QJur2YMCe6x7OdP?usp=sharing)
 
 ## Basic Details
 ### Team Name: SingleThreaded
@@ -80,7 +80,7 @@ For Software:
 
 ### Project Demo
 # Video
-[[Vedio Drive Link]](https://drive.google.com/drive/folders/1MKeHJKEFIY2IeDio4QJur2YMCe6x7OdP?usp=sharing)
+[[Video Drive Link]](https://drive.google.com/drive/folders/1MKeHJKEFIY2IeDio4QJur2YMCe6x7OdP?usp=sharing)
 
 *Vedio showing the system recognizing a person and greating him (audio)*
 
